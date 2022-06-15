@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renan Honório - @honoriocode 
-- 👀 I’m interested in ... Python and JavaScript
+- 👀 I’m interested in ... Python and Golang
 - 🌱 I’m currently learning ... about programming
 - 💞️ I’m looking to collaborate on ... new projects, new ideas.
 - 📫 How to reach me ... honoriocode@gmail.com
