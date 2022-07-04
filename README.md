@@ -1,4 +1,4 @@
-## Renan Honório!                   
+## Renan Honório                   
 
 Hey you! My name is Renan Honório! Welcome to my GitHube!
 I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm a musician, english teacher, a soccer fan and a 
