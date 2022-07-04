@@ -21,12 +21,18 @@ This is Me: <img src=![octocat-1656915113950](https://user-images.githubusercont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
           
           
- 
+ ### Contatos:
+
+<div>
+<a href="https://instagram.com/honoriocode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:honoriocode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-honorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/honoriocode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoriocode&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoriocode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
