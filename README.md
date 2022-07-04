@@ -39,4 +39,4 @@ supporter of the best team of RJ: Fluminense. ![pixlr-bg-result](https://user-im
 </div>
   
   
- ![Snake animation](https://github.com/honoriocode/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/honoriocode/honoriocode/blob/output/github-contribution-grid-snake.svg)
