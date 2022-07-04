@@ -9,14 +9,11 @@ supporter of the best team of RJ: Fluminense.
 - 📫 How to reach me ... honoriocode@gmail.com
 
 
-This is Me: ![Pic1](https://user-images.githubusercontent.com/106161895/177093235-ac515d0e-56dd-41b7-ad1b-130681e4704c.jpeg)
+This is Me: <img src=![octocat-1656915113950](https://user-images.githubusercontent.com/106161895/177094788-579629a6-be10-4589-bef9-eb8e011e5a4f.png) width="40" height="40"/>
 
 ###Technologies and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
                    
 
 ##I'm Studying...
