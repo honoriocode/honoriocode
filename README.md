@@ -1,4 +1,4 @@
-Renan Honório! ![toonrenangihube](https://user-images.githubusercontent.com/106161895/177098441-7fb5b793-4b92-4986-9aee-9eb2eea16619.jpeg)
+Renan Honório! ![pixlr-bg-result](https://user-images.githubusercontent.com/106161895/177099969-6cb4581f-4394-476e-8c03-bdc99baf6918.png)
 
 
 Hey you! My name is Renan Honorio! Welcome to my GitHube!
@@ -19,6 +19,7 @@ supporter of the best team of RJ: Fluminense.
 
 ## I'm Studying...
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
           
           
 ### Contacts:
@@ -30,7 +31,7 @@ supporter of the best team of RJ: Fluminense.
 </div>
           
 
-
+## My Stats:
 <div>
 <a href="https://github.com/honoriocode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoriocode&layout=compact&langs_count=7&theme=dracula"/>
