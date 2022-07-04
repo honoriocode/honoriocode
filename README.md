@@ -9,7 +9,7 @@ supporter of the best team of RJ: Fluminense.
 - 📫 How to reach me ... honoriocode@gmail.com
 
 
-![toonrenangihube](https://user-images.githubusercontent.com/106161895/177097889-c3e2e605-aa72-4c99-a45c-642b278f2ba3.jpeg)
+<img src=![toonrenangihube](https://user-images.githubusercontent.com/106161895/177097889-c3e2e605-aa72-4c99-a45c-642b278f2ba3.jpeg) width="40" height="40"/>
 
 ###Technologies and Tools
 
