@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ... new projects, new ideas.
 - 📫 How to reach me ... honoriocode@gmail.com
 
+![octocat-1656915113950](https://user-images.githubusercontent.com/106161895/177092798-3597c06b-7da6-4837-ae97-9aeeb9feaad1.png)
 
-![octocat-1656915113950](https://user-images.githubusercontent.com/106161895/177092503-57ea051d-1331-4248-bdce-7f7f75b10dd6.png)
+
 
 Hey you! I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm single, also a soccer fan and a 
 supporter of the best team of RJ: Fluminense.
