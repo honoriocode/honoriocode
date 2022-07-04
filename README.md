@@ -1,8 +1,7 @@
 ## Renan Honório                   
 
 Hey you! My name is Renan Honório! Welcome to my GitHube!
-I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm a musician, english teacher, a soccer fan and a 
-supporter of the best team of RJ: Fluminense. ![pixlr-bg-result](https://user-images.githubusercontent.com/106161895/177099969-6cb4581f-4394-476e-8c03-bdc99baf6918.png) 
+I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29 years old, I live in Taubaté - SP and I'm single. I'm a musician, english teacher, a soccer fan and a supporter of the best team of RJ: Fluminense. ![pixlr-bg-result](https://user-images.githubusercontent.com/106161895/177099969-6cb4581f-4394-476e-8c03-bdc99baf6918.png) 
 
 ## About Me:
 
