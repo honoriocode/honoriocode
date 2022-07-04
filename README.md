@@ -1,3 +1,6 @@
+Renan Honório! ![toonrenangihube](https://user-images.githubusercontent.com/106161895/177098441-7fb5b793-4b92-4986-9aee-9eb2eea16619.jpeg)
+
+
 Hey you! My name is Renan Honorio! Welcome to my GitHube!
 I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm a musician, english teacher, a soccer fan and a 
 supporter of the best team of RJ: Fluminense.
@@ -9,19 +12,16 @@ supporter of the best team of RJ: Fluminense.
 - 📫 How to reach me ... honoriocode@gmail.com
 
 
-<img src=![toonrenangihube](https://user-images.githubusercontent.com/106161895/177097889-c3e2e605-aa72-4c99-a45c-642b278f2ba3.jpeg) width="500" height="500"/>
-
 ###Technologies and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
                    
 
-##I'm Studying...
+## I'm Studying...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
           
           
- ### Contacts:
+### Contacts:
 
 <div>
 <a href="https://instagram.com/honoriocode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
