@@ -1,9 +1,9 @@
-## Renan Honório!                                           ![pixlr-bg-result](https://user-images.githubusercontent.com/106161895/177099969-6cb4581f-4394-476e-8c03-bdc99baf6918.png)
+## Renan Honório!                   
 
 
 Hey you! My name is Renan Honorio! Welcome to my GitHube!
 I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm a musician, english teacher, a soccer fan and a 
-supporter of the best team of RJ: Fluminense.
+supporter of the best team of RJ: Fluminense. ![pixlr-bg-result](https://user-images.githubusercontent.com/106161895/177099969-6cb4581f-4394-476e-8c03-bdc99baf6918.png)
 
 - 😎 Hi, I’m Renan Honório - @honoriocode 
 - 👀 I’m interested in ... Python, Golang, data science
