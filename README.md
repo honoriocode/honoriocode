@@ -2,12 +2,12 @@
 - 👀 I’m interested in ... Python and Golang
 - 🌱 I’m currently learning ... about programming
 - 💞️ I’m looking to collaborate on ... new projects, new ideas.
-- 📫 How to reach me ... honoriocode@gmail.com
+- 📫 How to reach me ... honor!
+- [octocat-1656915113950](https://user-images.githubusercontent.com/106161895/177092390-9520b4b9-e633-4144-aaae-46355d77a17a.png)
+iocode@gmail.com
 
-<!---
 Hey you! I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a difference in the area. I'm 29, I'm single, also a soccer fan and a 
 supporter of the best team of RJ: Fluminense.
---->
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
