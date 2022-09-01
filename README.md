@@ -6,8 +6,8 @@ I'm a new programmer from Brazil with a lot of enthusiasm and energy to make a d
 ## About Me:
 
 - 😎 Hi, I’m Renan Honório - @honoriocode 
-- 👀 I’m interested in ... Python, Golang, Big Data.
-- 🌱 I’m currently learning ... About Programming
+- 👀 I’m interested in ... Python, C#, Golang, BackEnd Development, Database.
+- 🌱 I’m currently learning ... About Programming and anything related.
 - 💞️ I’m looking to collaborate on ... New Projects, New Ideas.
 - 📫 How to reach me ... honoriocode@gmail.com
 
